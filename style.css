@@ -1,0 +1,28 @@
+body{
+	background-color: #FDF0C2; 
+    position: relative; 
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+  }
+
+#section3,#section4{ 
+	padding-top:20px;
+	}
+#section1{
+	padding-top:50px;
+}
+
+#section2 img{
+	background-color: white;
+	size: inherit;
+	height:200px;
+	width: 200px; 
+	margin: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#portfolio{
+	background-color: white;
+}
